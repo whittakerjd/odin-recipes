@@ -1,0 +1,70 @@
+* {
+    margin: 15;
+    padding: 5;
+    box-sizing: border-box;
+}
+
+body.homepage {
+    background: linear-gradient(bisque, white);
+    height: 100vh;
+    max-width: 100vh;
+}
+
+body {
+    background: linear-gradient(bisque, white);
+    height: 100%;
+    max-width: 100vh;
+}
+
+img {
+    height: 600px;
+    width: auto;
+    border-style: solid;
+    border-color: white;
+    border-width: thick;
+}
+
+p {
+    max-width: 1000px;
+    padding: 10px
+}
+
+h1 {
+    font-family: Verdana, sans-serif;
+    font-size: 50px;
+    border-bottom: black;
+    border-style: solid;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+}
+
+h2 {
+    border-bottom: black;
+    border-style: solid;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    border-width: thin;
+}
+
+h5 {
+    border-top: black;
+    border-style: solid;
+    border-bottom: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    border-width: 900;
+    padding: 5px;
+}
+
+ol {
+    border-style: solid;
+    padding: 25px;
+    margin: 25px;
+}
+
+
+
+
+
